@@ -1,6 +1,4 @@
-===========
-
-Patient Xray C++ Demonstration Application
+##### Patient Xray C++ Demonstration Application
 
 **Overview**
 
