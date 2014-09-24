@@ -1,4 +1,3 @@
-uh-cpp-ldap
 ===========
 
 Patient Xray C++ Demonstration Application
