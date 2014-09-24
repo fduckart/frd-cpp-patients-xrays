@@ -12,8 +12,6 @@ Xray::Xray(int i, bool isBad)
 }
 
 // Copy constructor.  
-// Make sure this doesn't get accidentally 
-// called in some way.  Assert statement inside.
 Xray::Xray(const Xray & x) 
 { 
     id = x.id;

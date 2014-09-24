@@ -13,8 +13,6 @@ Patient::Patient(int i, const string fname, const string lname)
 }
 
 // Copy constructor.  
-// Make sure this doesn't get accidentally 
-// called in some way.  Assert statement inside.
 Patient::Patient(const Patient & p) 
 { 
     id = p.id;
